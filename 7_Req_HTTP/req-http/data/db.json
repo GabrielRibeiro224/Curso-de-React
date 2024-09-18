@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "d2d0",
+      "name": "bag de ifood",
+      "price": "30.29"
+    },
+    {
+      "id": "3d4c",
+      "name": "Guarda chuva",
+      "price": "15.30"
+    },
+    {
+      "id": "8119",
+      "name": "Blusa de malha",
+      "price": "20.99"
+    },
+    {
+      "id": "11f5",
+      "name": "mouse",
+      "price": "105"
+    },
+    {
+      "id": "847e",
+      "name": "Teclado",
+      "price": "220"
+    },
+    {
+      "id": "a500",
+      "name": "camiseta",
+      "price": "30.90"
+    },
+    {
+      "id": "9dfc",
+      "name": "Mousepad",
+      "price": "20"
+    },
+    {
+      "id": "bd1b",
+      "name": "Calça de moletom",
+      "price": "70"
+    },
+    {
+      "id": "0765",
+      "name": "monitor",
+      "price": "120"
+    }
+  ]
+}

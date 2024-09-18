@@ -1,0 +1,12 @@
+p {
+    color: red;
+    background-color: #000;
+    padding: 20px;
+}
+
+.paragraph-component {
+    color: green;
+    padding: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,.9);
+}
